@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="800" viewBox="0 0 1000 800">
+  <rect width="100%" height="100%" fill="#F0FEFC"/>
+  <defs>
+    <pattern id="p" width="40" height="40" patternUnits="userSpaceOnUse">
+      <circle cx="10" cy="10" r="6" fill="#3C2D7A"/>
+      <circle cx="30" cy="30" r="6" fill="#009A90"/>
+    </pattern>
+  </defs>
+  <rect x="120" y="120" width="760" height="560" fill="url(#p)"/>
+  <text x="40" y="760" font-family="Inter, Arial" font-size="28" fill="#774399">Pattern 01</text>
+</svg>

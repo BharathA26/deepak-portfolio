@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="800" viewBox="0 0 1000 800">
+  <rect width="100%" height="100%" fill="#F7F5FF"/>
+  <rect x="160" y="160" width="680" height="480" fill="#FFFFFF" stroke="#774399" stroke-width="10"/>
+  <rect x="220" y="220" width="560" height="40" fill="#3C2D7A"/>
+  <rect x="220" y="280" width="560" height="300" fill="#EEE"/>
+  <text x="40" y="760" font-family="Inter, Arial" font-size="28" fill="#3C2D7A">Editorial 01</text>
+</svg>
