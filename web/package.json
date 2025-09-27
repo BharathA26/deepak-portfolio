@@ -22,7 +22,12 @@
     "react-hook-form": "^7.53.0",
     "typescript": "^4.4.2",
     "web-vitals": "^2.1.0",
-    "zod": "^3.23.8"
+    "zod": "^3.23.8",
+    "framer-motion": "^12.23.22",
+    "react-infinite-scroll-component": "^6.1.0"
+  },
+    "devDependencies": {
+    "@types/react-infinite-scroll-component": "^5.0.0"
   },
   "scripts": {
     "start": "react-scripts start",

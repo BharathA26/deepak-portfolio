@@ -1,9 +1,0 @@
-{
-  "dependencies": {
-    "framer-motion": "^12.23.22",
-    "react-infinite-scroll-component": "^6.1.0"
-  },
-  "devDependencies": {
-    "@types/react-infinite-scroll-component": "^5.0.0"
-  }
-}

@@ -17,12 +17,14 @@ export default function TechSkills() {
             </span>
           </Box>
         </Box>
-        <Box sx={{ ml: { xs: -2, sm: -3 }, mr: { xs: -2, sm: -3 } }}>
-      <Box sx={{ maxWidth: 1320, mx: 'auto', px: { xs: 2, sm: 3, lg: 0 } }}>
+        {/* Ensure the grid aligns with the section container and stays centered */}
+        <Box sx={{ ml: { xs: -2, sm: -3, md: 0 }, mr: { xs: -2, sm: -3, md: 0 } }}>
+      <Box sx={{ maxWidth: 1320, mx: 'auto', px: { xs: 2, sm: 3, md: 3, lg: 0 } }}>
         <Box
           sx={{
             display: 'grid',
             gap: 2,
+            justifyContent: 'center',
             gridTemplateColumns: {
         xs: 'repeat(2, minmax(160px, 1fr))',
         sm: 'repeat(3, minmax(180px, 1fr))',
